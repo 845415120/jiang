@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-704ddbb9","path":"/Node/%E8%B7%AF%E7%94%B1router.html","title":"express.Router使用","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"Node/路由router.md"}');export{e as data};

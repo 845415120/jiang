@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ad8c2e7","path":"/Vue/Vue-Router.html","title":"Vue Router","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Vue3中新增路由分为以下几个步骤","slug":"vue3中新增路由分为以下几个步骤","link":"#vue3中新增路由分为以下几个步骤","children":[]}],"git":{},"filePathRelative":"Vue/Vue-Router.md"}');export{e as data};
