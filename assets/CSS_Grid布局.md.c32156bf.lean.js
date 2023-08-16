@@ -1,0 +1,1 @@
+import{_ as s,o as n,c as a,U as l}from"./chunks/framework.4c05f43b.js";const i=JSON.parse('{"title":"Grid","description":"","frontmatter":{},"headers":[],"relativePath":"CSS/Grid布局.md","filePath":"CSS/Grid布局.md"}'),p={name:"CSS/Grid布局.md"},o=l("",5),e=[o];function t(c,r,D,C,y,F){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

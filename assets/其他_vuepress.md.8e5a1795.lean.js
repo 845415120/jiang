@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.4c05f43b.js";const i=JSON.parse('{"title":"vuepress","description":"","frontmatter":{},"headers":[],"relativePath":"其他/vuepress.md","filePath":"其他/vuepress.md"}'),p={name:"其他/vuepress.md"},o=l("",6),e=[o];function t(c,D,r,y,F,C){return a(),n("div",null,e)}const d=s(p,[["render",t]]);export{i as __pageData,d as default};

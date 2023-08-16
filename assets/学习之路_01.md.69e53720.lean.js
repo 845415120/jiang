@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as i,U as t}from"./chunks/framework.4c05f43b.js";const g=JSON.parse('{"title":"学习之路(视频学习路线)","description":"","frontmatter":{},"headers":[],"relativePath":"学习之路/01.md","filePath":"学习之路/01.md"}'),r={name:"学习之路/01.md"},c=t("",31),s=[c];function o(p,m,l,h,d,b){return a(),i("div",null,s)}const w=e(r,[["render",o]]);export{g as __pageData,w as default};

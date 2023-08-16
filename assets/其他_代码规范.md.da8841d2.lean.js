@@ -1,0 +1,1 @@
+import{_ as a,o as l,c as e,U as i}from"./chunks/framework.4c05f43b.js";const f=JSON.parse('{"title":"代码规范","description":"","frontmatter":{},"headers":[],"relativePath":"其他/代码规范.md","filePath":"其他/代码规范.md"}'),t={name:"其他/代码规范.md"},r=i("",9),o=[r];function n(s,_,h,c,d,u){return l(),e("div",null,o)}const p=a(t,[["render",n]]);export{f as __pageData,p as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,U as o}from"./chunks/framework.4c05f43b.js";const u=JSON.parse('{"title":"调试工具","description":"","frontmatter":{},"headers":[],"relativePath":"其他/控制台调试工具.md","filePath":"其他/控制台调试工具.md"}'),r={name:"其他/控制台调试工具.md"},i=o("",8),s=[i];function _(c,l,p,n,m,h){return a(),t("div",null,s)}const f=e(r,[["render",_]]);export{u as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as a,o as e,c as s,U as n}from"./chunks/framework.4c05f43b.js";const C=JSON.parse('{"title":"Vue面试题","description":"","frontmatter":{},"headers":[],"relativePath":"面试之路/Vue.md","filePath":"面试之路/Vue.md"}'),t={name:"面试之路/Vue.md"},l=n("",41),o=[l];function p(r,i,c,d,u,h){return e(),s("div",null,o)}const g=a(t,[["render",p]]);export{C as __pageData,g as default};

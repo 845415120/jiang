@@ -1,0 +1,1 @@
+import{_ as s,o as a,c as n,U as l}from"./chunks/framework.4c05f43b.js";const A=JSON.parse('{"title":"Echarts","description":"","frontmatter":{},"headers":[],"relativePath":"其他/echarts.md","filePath":"其他/echarts.md"}'),p={name:"其他/echarts.md"},o=l("",17),t=[o];function e(c,r,D,y,F,i){return a(),n("div",null,t)}const h=s(p,[["render",e]]);export{A as __pageData,h as default};

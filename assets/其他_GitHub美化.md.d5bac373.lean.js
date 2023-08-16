@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,U as r}from"./chunks/framework.4c05f43b.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"其他/GitHub美化.md","filePath":"其他/GitHub美化.md"}'),p={name:"其他/GitHub美化.md"},s=r("",1),i=[s];function m(n,o,c,h,_,l){return t(),a("div",null,i)}const g=e(p,[["render",m]]);export{d as __pageData,g as default};
