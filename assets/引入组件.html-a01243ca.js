@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3b563b26","path":"/Vue/%E5%BC%95%E5%85%A5%E7%BB%84%E4%BB%B6.html","title":"引入组件","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"vue3 setup","slug":"vue3-setup","link":"#vue3-setup","children":[]}],"git":{},"filePathRelative":"Vue/引入组件.md"}');export{e as data};
